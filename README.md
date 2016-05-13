@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -183,3 +184,6 @@ Note that CMD represents Windows and Bash is typically Linux and OS X is Macinto
 
 ## Module 4 Guidelines
 ### Coming Soon
+=======
+# coursera-test
+>>>>>>> 879fb67b17b92196718e6c7cf7f57333189e64b1
